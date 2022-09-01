@@ -30,4 +30,11 @@
   
 
   
+  <url>
+    <loc>http://example.com/categories/CTF-WriteUps/</loc>
+    <lastmod>2022-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 </urlset>
