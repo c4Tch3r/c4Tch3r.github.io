@@ -2,27 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/09/01/%E5%BC%BA%E7%BD%91%E6%9D%AF2022/</loc>
+    <loc>http://example.com/2022/09/04/%E7%BE%8A%E5%9F%8E%E6%9D%AF2022-%E9%83%A8%E5%88%86%E9%A2%98%E8%A7%A3/</loc>
     
-    <lastmod>2022-09-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2022/09/01/%E5%B7%85%E5%B3%B0%E6%9E%81%E5%AE%A22022%E5%88%9D%E8%B5%9B/</loc>
-    
-    <lastmod>2022-09-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2022/09/01/hello-world/</loc>
-    
-    <lastmod>2022-09-01</lastmod>
+    <lastmod>2022-09-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +13,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2022-09-01</lastmod>
+    <lastmod>2022-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -40,8 +22,8 @@
 
   
   <url>
-    <loc>http://example.com/categories/CTF-WriteUps/</loc>
-    <lastmod>2022-09-01</lastmod>
+    <loc>http://example.com/categories/CTF-Writeups/</loc>
+    <lastmod>2022-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
