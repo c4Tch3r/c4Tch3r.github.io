@@ -1,5 +1,5 @@
 http://example.com/2022/09/04/%E7%BE%8A%E5%9F%8E%E6%9D%AF2022-%E9%83%A8%E5%88%86%E9%A2%98%E8%A7%A3/
 http://example.com/2022/09/05/%E5%AE%89%E5%85%A8%E5%8D%8F%E8%AE%AE%E7%AC%94%E8%AE%B0/
 http://example.com/
-http://example.com/categories/CTF-Writeups/
 http://example.com/categories/%E5%A4%A7%E4%B8%89%E8%AF%BE%E7%A8%8B/
+http://example.com/categories/CTF-Writeups/
